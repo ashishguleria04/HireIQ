@@ -1,2 +1,0 @@
-# HireIQ
-HireIQ is an AI-powered platform for conducting and evaluating technical interviews for practice. With adaptive questioning, automated scoring, real-time coding challenges, and insightful analytics, HireIQ helps streamline the process of preparing for interviews by accurately assessing candidates’ technical skills and problem-solving abilities and help the candidate improve thier technical skills. 
